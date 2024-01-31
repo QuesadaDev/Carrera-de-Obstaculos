@@ -1,0 +1,1 @@
+:running_man: En este ejercicio se genera de forma aleatoria una pista con dos tipos diferentes de obstáculos la cual el atleta debe superar. Los movimientos del atleta también son aleatorios por lo que no se sabe si podrá superar los obstáculos. :running_man:
